@@ -5,7 +5,7 @@ export default `<!doctype html>
     <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Web Scraper · By Adam Schwartz · Powered by Cloudflare Workers®</title>
+    <title>Web Scraper</title>
 
     <meta name="description" content="A simple web scraper powered by Cloudflare Workers®.">
     <meta name="keywords" content="Web scraper, screen scraper, scraper, Cloudflare Workers®, app">
