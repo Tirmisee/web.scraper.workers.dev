@@ -1,4 +1,4 @@
 name = "webscraper"
-account_id = "6b3a6fb797b33ccc075d1ebee7859c73" # scraper.workers.dev
+account_id = "" # scraper.workers.dev
 type = "webpack"
 workers_dev = true
